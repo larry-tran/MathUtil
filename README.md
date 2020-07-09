@@ -9,7 +9,8 @@ It is a part of  Software Engineering course in Semester 4 at FPT University, HC
 * gitignore file
 
 ## Contact me via
-[GitHub](http://github.com/larry-tran)
-[Facebook](http://facebook.com/profile.php?id=100007866637403)
+1. [GitHub](http://github.com/larry-tran)
+2. [Facebook](http://facebook.com/profile.php?id=100007866637403)
+3.[Gmail](longtran4949@gmail.com)
 
 ### SWE-Week7
